@@ -14,7 +14,7 @@ J'adore le fait de pouvoir créer tout ce qui me viens à l'esprit. J'adore me f
 
 
 ## 🔭 Je travaille actuellement sur
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AliiiBenn&repo=MisteryLand)](https://github.com/AliiiBenn/MisteryLand)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AliiiBenn&repo=Obsidian-Pages)](https://github.com/AliiiBenn/Obsidian-Pages)
 
 ## 🌱 Je suis en train d'apprendre
 
