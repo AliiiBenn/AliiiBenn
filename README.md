@@ -3,7 +3,7 @@
 </p>
 
 # 💫 About Me:
-🔭 I’m currently working on MysteryLand<br>🌱 I’m currently learning Unity
+🔭 I’m currently working on a Discord Bot with discord.py V2<br>🌱 I’m currently learning maths
 
 
 ## 🌐 Socials:
