@@ -5,7 +5,7 @@
 # 💫 About Me:
 🔭 I’m currently creating a course on discord bots with discord.py<br>🌱 I’m currently learning maths
 
-<script src="https://opencollective.com/:AliBen/collectives.js?role=backer"></script>
+![]("https://opencollective.com/:username/collectives.js?role=backer")
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/AliBen#7502) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/AliBen) 
